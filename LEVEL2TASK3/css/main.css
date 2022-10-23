@@ -4,8 +4,15 @@
 #todoList li{
     list-style-type: none;
 }
+h2{
+    font-style: italic;
+    font-size: 70px;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .uncompleted label{
-    color: #afa7a7;
+    color: #2a00fa;
     text-decoration: line-through;
 }
 #todoList .btn{
