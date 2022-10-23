@@ -18,6 +18,9 @@ LinkedIn- https://lnkd.in/dGKcF7iu
 
 
 Tasks performed during internship:
+
 1)calculator
+
 2)tribute page
+
 3)basic to do application
